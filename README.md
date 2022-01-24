@@ -33,7 +33,7 @@ MainActivity에서는 비밀번호 변경 기능도 제공한다. unlock 하는 
     *	Commit은 UI 쓰레드를 잠시 블록한 뒤 실제 데이터가 저장될 때까지 기다리는 방식
     *	apply는 기다리지 않고 비동기적으로 저장하는 방식  
 *	Theme
-  *	NoActionBar
+    *	NoActionBar
 *	AlertDialog
 *	Kotlin 문법
     * Android ktx로 SharedPreferences 사용 (Kotlin Android Extension)
